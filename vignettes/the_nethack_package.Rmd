@@ -1,0 +1,83 @@
+---
+title: "NetHack runs data"
+author: "Bruno André Rodrigues Coelho"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{NetHack runs data}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+## Introduction
+
+NetHack is a game released in 1987 that is still being played and developed today. 
+NetHack is a roguelike game, meaning that is has procedurally generated dungeons and permadeath. 
+If you die, you have to start over, and because the dungeons are procedurally generated, this means 
+that you cannot learn the layout of the dungeons you're exploring or know when ennemies are going 
+to attack or even what ennemies are going to attack. Ennemies are not the only thing that you have
+to be careful about; you can die from a lot of different events, as you will see in this post. 
+Objects that you find, such as a silver ring, might be helpful in a run, but be cursed in the next run.
+
+There are public servers where you can create an account and play the game. 
+
+## The dataset
+
+This dataset is a dump of extended log files from the alt.org public server that was generously
+provided to me by Pasi Kallinen. It contains 6855 rows and 22 columns:
+
+* points: The points the player achieved on that run
+* deathdnum: The dungeon number the player died on:
+    * 0: The Dungeons of Doom
+    * 1: Gehennom
+    * 2: The Gnomish Mines
+    * 3: The Quest
+    * 4: Sokoban
+    * 5: Fort Ludios
+    * 6: Vlad's Tower
+    * 7: Elemental Planes
+* deathlev: The dungeon level the player died on
+* maxlvl: The deepest dungeon level reached
+* hp: The health points the player had when the game finished
+* maxhp: The maximum health points the played had when the game finished
+* deaths: The number of times the player died during the game
+* deathdate: The day the game ended
+* birthdate: The day the game started
+* role: The role of the player
+* race: The race the player
+* gender: The gender the player when the game ended
+* align: The alignement the player when the game ended
+* name: The name of the player
+* death: The reason the game ended
+* turns: The number of turns taken until the game ended
+* realtime: The length of the game in seconds
+* starttime: Unix time of the start of the game
+* endtime: Unix time of the end of the game
+* gender0: The starting gender of the player
+* align0: The starting alignment of the player
+* dumplog: The dumplog of the run. This is a list-column, where every element of this list
+    was obtained from reading the lines of the dumplog of the game. The dumplog is a text file
+    that records the last events of a game
+
+It covers games played from the 28th of April 2018 to the 05th of November 2018.
+
+## The functions included
+
+This package contains two functions:
+
+* clean_xlog
+* get_dumplog
+
+NetHack produces extended log (xlog) files once the game is over. These files are the source of the data.
+You can find xlog files on public servers, for example here
+\url{http://archive.fo/NM96Z}, or use the ones generated from 
+your own games. Get dumplog gets the associated dumplog file. A dumplog is a text file that is 
+generated at the end of the game and which contains the last events that happened in the game.
+This is an example of dumplog \url{http://archive.is/7awsb}.

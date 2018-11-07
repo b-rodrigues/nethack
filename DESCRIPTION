@@ -1,0 +1,22 @@
+Package: nethack
+Type: Package
+Title: Data from the Video Game NetHack
+Version: 0.1.0
+Authors@R: person("Bruno", "Rodrigues", email = "bruno@brodrigues.co",
+                  role = c("aut", "cre"))
+Description: Data from NetHack runs played between April 2018 to November 2018 on 
+    <https://alt.org/nethack/>, a NetHack public server.
+Depends: R (>= 2.10)
+License: CC BY 4.0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
+Imports: 
+    magrittr,
+    dplyr,
+    purrr,
+    stringr,
+    readr
