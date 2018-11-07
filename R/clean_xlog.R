@@ -13,16 +13,30 @@ uid <- conduct <- turns <- achieve <- realtime <- starttime <- flags <- death <-
 #' @export
 #' @examples
 #' \dontrun{
+#' xlog <- read_delim("~/path/to/nethack361_xlog.csv",
+#' "\t", escape_double = FALSE, col_names = FALSE, trim_ws = TRUE)
 #' clean_xlog(xlog)
 #' }
 clean_xlog <- function(xlog){
 
-    colnames(xlog) <- c("version", "points", "deathdnum", "deathlev", "maxlvl", "hp", "maxhp",
+    nowhilecol <- xlog %>%
+        dplyr::filter(!str_detect(X18, "while"))
+
+    whilecol <- xlog %>%
+        dplyr::filter(str_detect(X18, "while"))
+
+    colnames(nowhilecol) <- c("version", "points", "deathdnum", "deathlev", "maxlvl", "hp", "maxhp",
                         "deaths", "deathdate", "birthdate", "uid", "role", "race", "gender", "align",
                         "name", "death", "conduct", "turns", "achieve", "realtime",  "starttime",
                         "endtime",  "gender0", "align0", "flags")
 
-    xlog %>%
+
+    colnames(whilecol) <- c("version", "points", "deathdnum", "deathlev", "maxlvl", "hp", "maxhp",
+                        "deaths", "deathdate", "birthdate", "uid", "role", "race", "gender", "align",
+                        "name", "death", "killed_while", "conduct", "turns", "achieve", "realtime",  "starttime",
+                        "endtime",  "gender0", "align0")
+
+    cleaning <- . %>%
         purrr::map_df(~stringr::str_remove(., ".*=")) %>%
         dplyr::mutate(points = as.numeric(points),
                deathdnum = as.numeric(deathdnum),
@@ -38,8 +52,17 @@ clean_xlog <- function(xlog){
                turns = as.numeric(turns),
                achieve = as.numeric(achieve),
                realtime = as.numeric(realtime),
-               starttime = as.numeric(starttime),
-               flags = as.numeric(flags)) %>%
+               starttime = as.numeric(starttime)) %>%
         dplyr::filter(death != "escaped", turns > 30) %>%
-        dplyr::select(-version, -uid, -conduct, -achieve, -flags)
+        dplyr::select(-version, -uid, -conduct, -achieve)
+
+    nowhilecol <- nowhilecol %>%
+        cleaning %>%
+        select(-flags)
+
+    whilecol <- whilecol %>%
+        cleaning
+
+    dplyr::full_join(nowhilecol, whilecol)
+
 }
