@@ -4,9 +4,9 @@
 \name{nethack}
 \alias{nethack}
 \title{NetHack runs data.}
-\format{A data frame with 6817 rows and 22 variables extracted from xlogfiles of NetHack runs
+\format{A data frame with 6000 rows and 23 variables extracted from xlogfiles of NetHack runs
 on the public server \url{https://alt.org/nethack/}. The data goes from April to November 2018.
-The original xlogfiles was kindly provided Pasi Kallinen on November 2018.
+The original xlogfiles were kindly provided Pasi Kallinen on November 2018.
 \describe{
 \item{points}{The points the player achieved on that run}
 \item{deathdnum}{The dungeon number the player died on:
