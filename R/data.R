@@ -38,6 +38,7 @@
 #' \item{align}{The alignement the player when the game ended}
 #' \item{name}{The name of the player}
 #' \item{death}{The reason the game ended}
+#' \item{killed_while}{The player was killed while...}
 #' \item{turns}{The number of turns taken until the game ended}
 #' \item{realtime}{The length of the game in seconds}
 #' \item{starttime}{Unix time of the start of the game}

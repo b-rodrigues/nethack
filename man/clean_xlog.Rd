@@ -18,6 +18,8 @@ converts variables to their correct format.
 }
 \examples{
 \dontrun{
+xlog <- read_delim("~/path/to/nethack361_xlog.csv",
+"\\t", escape_double = FALSE, col_names = FALSE, trim_ws = TRUE)
 clean_xlog(xlog)
 }
 }

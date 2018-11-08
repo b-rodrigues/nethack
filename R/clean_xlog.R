@@ -1,5 +1,5 @@
-points <- deathdnum <- deathlev <- maxlvl <- hp <- maxhp <- deaths <- deathdate <- birthdate <- NULL
-uid <- conduct <- turns <- achieve <- realtime <- starttime <- flags <- death <- name <- NULL
+X18 <- . <- points <- deathdnum <- deathlev <- maxlvl <- hp <- maxhp <- deaths <- deathdate <- birthdate <- NULL
+uid <- conduct <- turns <- achieve <- realtime <- starttime <- endtime <- flags <- death <- name <- NULL
 #' Clean extended log (xlog) files from NetHack 3.6.1.
 #'
 #' Clean extended log (xlog) files from NetHack 3.6.1. Adds column names, removes unneeded columns and
@@ -9,7 +9,7 @@ uid <- conduct <- turns <- achieve <- realtime <- starttime <- flags <- death <-
 #' @importFrom dplyr mutate select filter
 #' @importFrom magrittr "%>%"
 #' @importFrom purrr map_df
-#' @importFrom stringr str_remove
+#' @importFrom stringr str_remove str_detect
 #' @export
 #' @examples
 #' \dontrun{
@@ -20,10 +20,10 @@ uid <- conduct <- turns <- achieve <- realtime <- starttime <- flags <- death <-
 clean_xlog <- function(xlog){
 
     nowhilecol <- xlog %>%
-        dplyr::filter(!str_detect(X18, "while"))
+        dplyr::filter(!stringr::str_detect(X18, "while"))
 
     whilecol <- xlog %>%
-        dplyr::filter(str_detect(X18, "while"))
+        dplyr::filter(stringr::str_detect(X18, "while"))
 
     colnames(nowhilecol) <- c("version", "points", "deathdnum", "deathlev", "maxlvl", "hp", "maxhp",
                         "deaths", "deathdate", "birthdate", "uid", "role", "race", "gender", "align",
