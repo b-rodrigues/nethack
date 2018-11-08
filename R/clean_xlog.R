@@ -52,7 +52,8 @@ clean_xlog <- function(xlog){
                turns = as.numeric(turns),
                achieve = as.numeric(achieve),
                realtime = as.numeric(realtime),
-               starttime = as.numeric(starttime)) %>%
+               starttime = as.numeric(starttime),
+               endtime = as.numeric(endtime)) %>%
         dplyr::filter(death != "escaped", turns > 30) %>%
         dplyr::select(-version, -uid, -conduct, -achieve)
 
