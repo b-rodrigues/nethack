@@ -1,0 +1,140 @@
+Unix NetHack Version 3.6.1 - last build Fri Apr 27 19:25:48 2018. (d4ebae12f1a709d1833cf466dd0c553fb97518d2)
+
+Game began 2018-08-21 17:09:35, ended 2018-08-21 17:10:08.
+
+zt, neutral female human Wizard
+
+                                         -----------
+                     ----------------####-.........|
+                     |..............|#   |.........|
+                     |..............|#   |.........|
+                     |..............|#   ..........|
+                     |............f@|#   |>........|
+                     ----------.-----#   |..........#
+                               ########  -----------##
+                                                     ##
+                                                      #
+                                                      #
+                                                      #  ##
+                                                      #---.-----
+                                                      #|......%|
+                                                      #-.......|
+                                                       |..<....|
+                                                       ---------
+
+Zt the Evoker             St:10 Dx:13 Co:14 In:18 Wi:10 Ch:9  Neutral S:5
+Dlvl:1  $:5  HP:4(12) Pw:8(8) AC:9  Xp:1/0 T:96  FoodPois
+
+Latest messages:
+ Hello zt, welcome to NetHack!  You are a neutral female human Wizard.
+ You swap places with your kitten.
+ You find a dart trap.
+ You swap places with your kitten.
+ You swap places with your kitten.
+ You swap places with your kitten.
+ You swap places with your kitten.
+ The door opens.
+ Autopickup: OFF.
+ Autopickup: ON, for $?/+"=! objects, with some exceptions.
+ $ - 5 gold pieces.
+ The door opens.
+ The grid bug bites!
+ You swap places with your kitten.
+ You hear some noises.
+ You find a bear trap.
+ n - a food ration.
+ o - a bow.
+ There are a few more objects here.
+ A bear trap closes on your foot!
+ There is an elf corpse here; eat it? [ynq] (n) y
+ Ulch - that meat was tainted!
+ You feel deathly sick.
+ (It must have died too long ago to be safe to eat.)
+ Really quit? (yes|no) yes
+
+Inventory:
+ Coins    ('$')
+  $ - 5 gold pieces
+ Weapons  (')')
+  o - a cursed -1 bow
+  a - a blessed +1 quarterstaff (weapon in hands)
+ Armor    ('[')
+  b - an uncursed +0 cloak of magic resistance (being worn)
+ Comestibles  ('%')
+  n - a cursed food ration
+ Scrolls  ('?')
+  i - an uncursed scroll of confuse monster
+  h - an uncursed scroll of enchant weapon
+  j - an uncursed scroll of identify
+ Spellbooks  ('+')
+  k - a blessed spellbook of force bolt
+  l - an uncursed spellbook of slow monster
+ Potions  ('!')
+  g - a blessed potion of restore ability
+  f - 2 uncursed potions of water
+ Rings    ('=')
+  d - an uncursed +1 ring of gain strength
+  e - an uncursed ring of sustain ability
+ Wands    ('/')
+  c - a blessed wand of striking (0:6)
+ Tools    ('(')
+  m - an uncursed magic marker (0:56)
+
+Zt the Wizard's attributes:
+
+Background:
+ You were an Evoker, a level 1 female human Wizard.
+ You were neutral, on a mission for Thoth
+ who was opposed by Ptah (lawful) and Anhur (chaotic).
+
+Final Characteristics:
+ You had 4 hit points (max:12).
+ You had 8 magic power (max:8).
+ Your armor class was 9.
+ You had 0 experience points.
+ You entered the dungeon 96 turns ago.
+ Your score was 5 before end-of-game adjustments.
+ Your strength was 10 (limit:18/100).
+ Your dexterity was 13 (base:14, limit:18).
+ Your constitution was 14 (limit:18).
+ Your intelligence was 18 (limit:18).
+ Your wisdom was 10 (limit:18).
+ Your charisma was 9 (limit:18).
+
+Final Status:
+ You were terminally sick from food poisoning.
+ You were trapped in a bear trap.
+ You had wounded legs.
+ You were unencumbered.
+ You were wielding a quarterstaff.
+
+Final Attributes:
+ You were nominally aligned.
+ You were magic-protected.
+ You were warded.
+ You survived.
+
+Vanquished creatures:
+  2 grid bugs
+
+No species were genocided or became extinct.
+
+Voluntary challenges:
+ You were an atheist.
+ You never hit with a wielded weapon.
+ You were a pacifist.
+ You were illiterate.
+ You never genocided any monsters.
+ You never polymorphed an object.
+ You never changed form.
+ You used no wishes.
+
+The Dungeons of Doom:
+   Level 1: <- You were here.
+
+Goodbye zt the Wizard...
+
+You quit in The Dungeons of Doom on dungeon level 1 with 5 points,
+and 5 pieces of gold, after 96 moves.
+You were level 1 with a maximum of 12 hit points when you quit.
+

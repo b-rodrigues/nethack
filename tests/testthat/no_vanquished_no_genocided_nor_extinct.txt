@@ -1,0 +1,98 @@
+Unix NetHack Version 3.6.1 - last build Fri Apr 27 19:25:48 2018. (d4ebae12f1a709d1833cf466dd0c553fb97518d2)
+
+Game began 2018-10-28 00:32:58, ended 2018-10-28 00:33:04.
+
+myunclejack, neutral male gnomish Wizard
+
+                                                      ----------
+                                                      |.k..@...|
+                                                      ....f....|
+                                                      |........|
+                                                      ----------
+
+Myunclejac the Evoker     St:8 Dx:13 Co:17 In:19 Wi:9 Ch:9  Neutral
+Dlvl:1  $:0  HP:11(11) Pw:8(8) AC:9  Exp:1 T:1 
+
+Latest messages:
+ [Thoth has chosen you to recover the Amulet of Yendor for Him.]
+ Hello myunclejack, welcome to NetHack!  You are a neutral male gnomish Wizard.
+ Really quit? (yes|no) yes
+ Do you want your possessions identified? [ynq] (y) q
+
+Inventory:
+ Weapons
+  a - a blessed +1 quarterstaff (weapon in hands)
+ Armor
+  b - an uncursed +0 cloak of magic resistance (being worn)
+ Scrolls
+  i - an uncursed scroll of destroy armor
+  k - an uncursed scroll of enchant weapon
+  j - an uncursed scroll of teleportation
+ Spellbooks
+  l - a blessed spellbook of force bolt
+  m - an uncursed spellbook of wizard lock
+ Potions
+  h - an uncursed potion of confusion
+  f - an uncursed potion of restore ability
+  g - an uncursed potion of speed
+ Rings
+  d - an uncursed +2 ring of gain constitution
+  e - a blessed +1 ring of gain strength
+ Wands
+  c - a wand of lightning (0:5)
+
+Myunclejack the Wizard's attributes:
+
+Background:
+ You were an Evoker, a level 1 male gnomish Wizard.
+ You were neutral, on a mission for Thoth
+ who was opposed by Ptah (lawful) and Anhur (chaotic).
+
+Final Characteristics:
+ You had 11 hit points (max:11).
+ You had 8 magic power (max:8).
+ Your armor class was 9.
+ You had 0 experience points.
+ You entered the dungeon 1 turn ago.
+ Your strength was 8 (limit:18/50).
+ Your dexterity was 13 (limit:18).
+ Your constitution was 17 (limit:18).
+ Your intelligence was 19 (limit:19).
+ Your wisdom was 9 (limit:18).
+ Your charisma was 9 (limit:18).
+
+Final Status:
+ You were unencumbered.
+ You were wielding a quarterstaff.
+
+Final Attributes:
+ You were nominally aligned.
+ You were magic-protected.
+ You had infravision.
+ You were warded.
+ You survived.
+
+No creatures were vanquished.
+
+No species were genocided or became extinct.
+
+Voluntary challenges:
+ You went without food.
+ You were an atheist.
+ You never hit with a wielded weapon.
+ You were a pacifist.
+ You were illiterate.
+ You never genocided any monsters.
+ You never polymorphed an object.
+ You never changed form.
+ You used no wishes.
+
+The Dungeons of Doom:
+   Level 1: <- You were here.
+
+Goodbye myunclejack the Wizard...
+
+You quit in The Dungeons of Doom on dungeon level 1 with 0 points,
+and 0 pieces of gold, after 1 move.
+You were level 1 with a maximum of 11 hit points when you quit.
+

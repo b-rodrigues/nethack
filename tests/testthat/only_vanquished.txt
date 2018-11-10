@@ -1,0 +1,163 @@
+Stroller, neutral male human Healer
+
+
+                            -----    -----------
+                            |...|    |.........|
+       --------------      #....+    ..........|
+      #-............|      #|.(<|    |.........|
+      #|.............#     #---|-    ..........|
+      #--------------#     ### ##    -------.---
+      ###            #       #  #           #
+        #            #       #  ###       ###
+        #            #       #    #       @
+        #            #       #    #######`ie
+  ------#            # ------#         --.---------
+  |....|#            ##-.....#         |..........|
+  |....|#              |....|          |..........|
+  |....+#        ######.....|          |..........|
+  |....|               |....|          |..........|
+  ------               |....|          |..........|
+                       ------          |...........
+                                       -----.------
+
+
+
+Stroller the Embalmer        St:10 Dx:13 Co:14 In:10 Wi:17 Ch:16  Neutral
+Dlvl:5  $:1998 HP:0(46) Pw:41(41) AC:2  Xp:6/598 T:4942
+
+
+Your inventory
+  Weapons
+  a - a +0 scalpel (alternate weapon; not wielded)
+  t - a blessed +0 orcish dagger
+  u - a +0 sling
+  z - a +0 dagger
+  F - a +0 orcish dagger
+  I - a +0 scimitar
+  Z - the rustproof +0 Vorpal Blade (weapon in hand)
+  Armor
+  b - a blessed +0 pair of water walking boots
+  w - an uncursed +0 orcish helm
+  A - an uncursed +0 studded leather armor (being worn)
+  B - an uncursed +0 pair of high boots (being worn)
+  C - an uncursed +0 dwarvish cloak (being worn)
+  G - an uncursed +1 pair of leather gloves (being worn)
+  H - an uncursed +0 orcish helm (being worn)
+  Comestibles
+  j - 4 uncursed apples
+  D - an uncursed food ration
+  Scrolls
+  M - an uncursed scroll of enchant armor
+  Potions
+  d - 2 uncursed potions of healing
+  e - 2 uncursed potions of extra healing
+  J - an uncursed potion of water
+  Wands
+  f - a wand of sleep (0:5)
+  m - a wand of striking (0:1)
+  Q - a wand of undead turning (0:6)
+  Tools
+  q - an uncursed tin whistle
+  s - an uncursed stethoscope
+  Gems
+  v - an uncursed worthless piece of red glass
+  E - an uncursed worthless piece of black glass
+  R - an uncursed worthless piece of blue glass
+  S - an uncursed jade stone
+
+Final attributes
+  You were piously aligned
+  Your alignment was  34
+  You were poison resistant
+  You are dead 
+
+Spells known in the end
+      Name               Level    Category     Fail
+  a - healing                1    healing        0%
+  b - extra healing          3    healing        0%
+  c - stone to flesh         3    healing       23%
+
+Vanquished creatures
+  a bugbear
+  an imp
+  a rock piercer
+  a fog cloud
+  2 yellow lights
+  a gray ooze
+  3 elf zombies
+  2 giant ants
+  a floating eye
+  a kitten
+  a homunculus
+  a centipede
+  a giant bat
+  a wererat
+  a werejackal
+  3 coyotes
+  2 gas spores
+  2 hobbits
+  3 manes
+  2 hobgoblins
+  9 giant rats
+  a brown mold
+  4 geckos
+  15 jackals
+  5 foxes
+  3 goblins
+  8 sewer rats
+  2 grid bugs
+  3 lichens
+  a kobold zombie
+  12 newts
+  94 creatures vanquished.
+
+Voluntary challenges
+  You never genocided any monsters
+  You never polymorphed an object
+  You never changed form
+  You used no wishes
+
+Your skills at the end
+  Fighting Skills
+    (none)
+  Weapon Skills
+    knife              [Skilled]
+    long sword         [Basic]
+  Spellcasting Skills
+    healing spells     [Basic]
+
+Latest messages
+  The homunculus bites!
+  The homunculus bites!
+  The homunculus bites!
+  The homunculus bites!
+  The homunculus bites!
+  The homunculus bites!
+  The homunculus bites!
+  The homunculus bites!
+  The homunculus bites!
+  The homunculus bites!
+  The homunculus bites!
+  The homunculus bites!
+  The homunculus bites!
+  The homunculus bites!
+  The homunculus bites!
+  The homunculus misses.
+  The homunculus bites!
+  The homunculus bites!
+  The homunculus bites!
+  You die...
+
+Goodbye Stroller the Healer...
+You died in The Dungeons of Doom on dungeon level 5 with 2954 points,
+and 1998 pieces of gold, after 4942 moves.
+Killer: homunculus, while frozen by a monster's gaze
+You were level 6 with a maximum of 46 hit points when you died.
+
+ No  Points     Name                                                   Hp [max]
+  1 2147483647  Berry-Pri-Hum-Fem-Neu ascended to demigoddess-hood.  4243 [4243]
+  2 2147483647  Berry-Hea-Gno-Mal-Neu ascended to demigod-hood.      4235 [4235]
+  3 2147483647  Berry-Cav-Dwa-Fem-Law ascended to demigoddess-hood.  4391 [4391]
+*         2954  Stroller-Hea-Hum-Mal-Neu died in The Dungeons of Doom          
+*               on level 5.  Killed by a homunculus, while frozen by           
+                a monster's gaze.                                       -  [46]

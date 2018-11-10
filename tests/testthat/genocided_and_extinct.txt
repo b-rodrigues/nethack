@@ -1,0 +1,715 @@
+Unix NetHack Version 3.6.1 - last build Fri Apr 27 19:25:48 2018. (d4ebae12f1a709d1833cf466dd0c553fb97518d2)
+
+Game began 2018-10-21 01:07:26, ended 2018-10-28 18:01:18.
+
+Ziak, lawful female dwarven Valkyrie
+
+                                                              -----
+                                                              |...
+                                                             --..---------
+                                                            --...|.......|
+                                                       ...---.4.4|.D.d...|
+                                                 H  A ...%%-@@.@%[A&A@d..|
+                                                    ......---..4.|M.@....|
+                                                    %)...   --..[|.......|
+                                                   --|--     --..---------
+                                             -------...       |...      5
+                                             |).%).....       -----
+                                             -.*[.)%%
+                                             .%..
+                                            %%.
+
+Ziak the Lady               St:25 Dx:18 Co:20 In:13 Wi:16 Ch:16  Lawful
+Astral Plane $:0  HP:364(367) Pw:89(89) AC:-48 Xp:30/109355932 T:63538 
+
+Latest messages:
+ The blast of sleep gas hits the renegade Angel of Tyr.
+ The blast of sleep gas whizzes by you!
+ The blast of sleep gas hits the large dog.
+ The blast of sleep gas bounces!
+ The Angel of Odin zaps you with a magic missile!
+ The magic missile hits the invisible Death!
+ The magic missile hits the orange dragon!
+ The magic missile misses the renegade Angel of Tyr.
+ The magic missile whizzes by you!
+ The magic missile hits the large dog!
+ The renegade Angel of Tyr swings her long sword.
+ The renegade Angel of Tyr hits!
+ The renegade Angel of Tyr swings her long sword.
+ The renegade Angel of Tyr hits!
+ The renegade Angel of Tyr hits!
+ The renegade Angel of Tyr casts a spell at you!
+ You are hit by a shower of missiles!
+ The missiles bounce off!
+ What do you want to use or apply? [achil-nq-sxzDJY or ?*] ?
+ In what direction? 8
+ You set the figurine beside you and it transforms.
+ The invisible Death moves the orange dragon out of the way!
+ The Angel of Odin zaps you with a magic missile!
+ The magic missile misses the invisible Death.
+ The magic missile misses the renegade Angel of Tyr.
+ The magic missile whizzes by you!
+ The magic missile hits the large dog.
+ The magic missile bounces!
+ The magic missile hits the large dog!
+ The renegade Angel of Tyr zaps a wand of cold!
+ The bolt of cold whizzes by you!
+ The bolt of cold hits the large dog!
+ (For instructions type a '?')
+ What do you want to call the large dog? Yoshi
+ (For instructions type a '?')
+ What do you want to call the large dog? Kirby
+ Pick an object.
+ There is a high altar to Tyr (lawful) here.
+ What do you want to sacrifice? [y or ?*] y
+ You offer the Amulet of Yendor to Tyr...
+ An invisible choir sings, and you are bathed in radiance...
+ The voice of Tyr thunders: "Mortal, thou hast done well!"
+ "In return for thy service, I grant thee the gift of Immortality!"
+ You ascend to the status of Demigoddess...
+ Do you want your possessions identified? [ynq] (y) y
+ Do you want to see your attributes? [ynq] (y) y
+ Do you want an account of creatures vanquished? [ynaq] (y) y
+ Do you want a list of species genocided and extinct? [ynq] (y) y
+ Do you want to see your conduct? [ynq] (y) y
+ Do you want to see the dungeon overview? [ynq] (y) y
+
+Inventory:
+ Amulets
+  U - a blessed amulet of life saving (being worn)
+  A - an uncursed amulet of magical breathing
+ Weapons
+  v - the blessed rustproof +7 Excalibur (weapon in hand)
+ Armor
+  X - a blessed fireproof +5 elven leather helm (being worn)
+  f - a blessed greased rustproof +5 pair of gauntlets of power (being worn)
+  g - a blessed fireproof +5 pair of speed boots (being worn)
+  K - a blessed fireproof +4 pair of water walking boots
+  O - a blessed +5 shield of reflection (being worn)
+  C - an uncursed fireproof +3 cloak of protection (being worn)
+  M - a blessed +4 Hawaiian shirt (being worn)
+  e - a blessed greased +4 gray dragon scale mail (being worn)
+ Comestibles
+  B - 6 uncursed K-rations
+ Spellbooks
+  p - the uncursed Book of the Dead
+ Rings
+  t - an uncursed ring of conflict
+  j - an uncursed ring of levitation
+  u - an uncursed ring of slow digestion (on right hand)
+  b - an uncursed ring of teleport control
+ Wands
+  Y - a wand of cancellation named DANGER ZONE (0:6)
+  n - a wand of death (0:6)
+  r - a wand of digging (0:5)
+  J - a wand of wishing (1:1)
+ Tools
+  s - a blessed greased bag of holding containing 91 items
+  x - an empty uncursed bag of holding
+  i - the blessed Bell of Opening (0:2)
+  q - an uncursed blindfold
+  m - the cursed Candelabrum of Invocation (no candles attached)
+  l - an uncursed magic lamp
+  c - a magic marker (0:80)
+  h - the blessed Orb of Fate (0:5)
+  a - an uncursed skeleton key
+  z - a blessed +0 unicorn horn
+
+Contents of the bag of holding:
+
+1313 gold pieces
+a blessed amulet of change
+an uncursed amulet of change
+an uncursed amulet of life saving
+an uncursed amulet of life saving
+a cursed amulet of life saving
+a cursed amulet of life saving
+an uncursed amulet of magical breathing
+a cursed amulet of strangulation
+the rustproof +3 Cleaver
+the rustproof +0 Fire Brand
+the rustproof +5 Mjollnir
+a blessed greased +3 cloak of displacement
+an uncursed +0 mummy wrapping
+a blessed +4 oilskin cloak
+11 uncursed C-rations
+an uncursed fortune cookie
+3 uncursed K-rations
+3 uncursed K-rations
+a blessed tin of floating eye meat
+2 blessed tins of nurse meat
+a blessed tin of quantum mechanic meat
+a blessed scroll of blank paper
+4 uncursed scrolls of confuse monster
+4 uncursed scrolls of create monster
+a cursed scroll of create monster
+a cursed scroll of create monster
+3 uncursed scrolls of destroy armor
+a blessed scroll of earth
+an uncursed scroll of earth
+an uncursed scroll of enchant armor
+2 uncursed scrolls of enchant armor
+an uncursed scroll of enchant weapon
+an uncursed scroll of food detection
+a cursed scroll of food detection
+an uncursed scroll of genocide
+2 uncursed scrolls of gold detection
+2 blessed scrolls of identify
+an uncursed scroll of identify
+an uncursed scroll of magic mapping
+3 blessed scrolls of remove curse
+2 uncursed scrolls of remove curse
+an uncursed scroll of taming
+2 blessed scrolls of teleportation
+12 potions of holy water
+an uncursed ring of free action
+an uncursed ring of polymorph
+an uncursed ring of polymorph control
+an uncursed ring of regeneration
+an uncursed ring of regeneration
+an uncursed ring of warning
+a wand of cold (0:6)
+a wand of create monster (0:12)
+a wand of create monster (0:9)
+a wand of create monster (0:0)
+a wand of death (1:8)
+a wand of death (1:0)
+a wand of digging (0:8)
+a wand of digging (0:7)
+a wand of digging (0:3)
+a wand of digging (0:0)
+a wand of digging (0:0)
+a cursed wand of digging (0:5)
+a wand of enlightenment (0:12)
+a wand of fire (0:7)
+a wand of fire (0:6)
+a wand of fire (0:4)
+a wand of fire (0:4)
+a wand of lightning (0:6)
+a wand of make invisible (0:3)
+a wand of opening (0:3)
+a blessed wand of polymorph (1:4)
+a wand of polymorph (0:8)
+a wand of polymorph (0:1)
+a wand of probing (0:3)
+a wand of slow monster (0:3)
+a wand of teleportation (0:7)
+a wand of wishing named Wishing (1:1)
+a can of grease (0:0)
+a cursed magic lamp
+a blessed magic marker (1:11)
+a blessed magic marker (1:8)
+a blessed magic marker (1:4)
+a blessed +0 pick-axe
+an uncursed skeleton key
+an uncursed stethoscope
+a +0 unicorn horn
+a blessed wax candle
+an uncursed wet towel
+a blessed luckstone
+a blessed touchstone
+Ziak the Valkyrie's attributes:
+
+Background:
+ You were a Lady, a level 30 dwarven Valkyrie.
+ You were lawful, on a mission for Tyr
+ who was opposed by Odin (neutral) and Loki (chaotic).
+
+Final Characteristics:
+ You had 364 hit points (max:367).
+ You had 89 magic power (max:89).
+ Your armor class was -48.
+ You had 109355932 experience points.
+ You entered the dungeon 63538 turns ago.
+ Your strength was 25 (base:18/13, innate limit:18/100).
+ Your dexterity was 18 (limit:20).
+ Your constitution was 20 (limit:20).
+ Your intelligence was 13 (limit:16).
+ Your wisdom was 16 (limit:16).
+ Your charisma was 16 (limit:16).
+
+Final Status:
+ You were unencumbered.
+ You were wielding a long sword.
+
+Final Attributes:
+ You were piously aligned.
+ You were magic-protected.
+ You were fire resistant.
+ You were cold resistant.
+ You were sleep resistant.
+ You were disintegration-resistant.
+ You were shock resistant.
+ You were poison resistant.
+ You were level-drain resistant.
+ You saw invisible.
+ You were telepathic.
+ You were warned.
+ You had automatic searching.
+ You had infravision.
+ You were invisible to others.
+ You were stealthy.
+ You had slower digestion.
+ You had a moderate defense bonus (+10).
+ You were protected.
+ You took half physical damage.
+ You took half spell damage.
+ You were very fast.
+ You had reflection.
+ Your life would have been saved.
+ You were extremely lucky.
+ You had extra luck.
+ Good luck did not time out for you.
+ You survived.
+
+Vanquished creatures:
+    Asmodeus
+    Baalzebub
+    Orcus
+    Juiblex
+the Wizard of Yendor (6 times)
+    Death
+    Vlad the Impaler
+  a high priest
+  6 mastodons
+    Medusa
+    Croesus
+ an iron golem
+ 23 storm giants
+  3 glass golems
+  4 balrogs
+  7 purple worms
+  a gray dragon
+  5 silver dragons
+  7 red dragons
+  6 white dragons
+  6 orange dragons
+  7 black dragons
+  3 blue dragons
+  2 green dragons
+  3 yellow dragons
+ 15 minotaurs
+  3 jabberwocks
+    Lord Surtur
+ 12 baluchitheria
+  8 Angels
+  5 stone golems
+  7 Olog-hai
+  3 Nazgul
+  6 pit fiends
+  3 sandestins
+ 10 hell hounds
+  9 titanotheres
+  6 trappers
+  a baby black dragon
+  a baby green dragon
+  2 guardian nagas
+ 33 vampire lords
+  2 skeletons
+  7 aligned priests
+ 13 captains
+  4 shades
+  a water troll
+  6 clay golems
+ 12 nurses
+ 13 ice devils
+  7 nalfeshnees
+  3 lurkers above
+ an Aleax
+  3 frost giants
+  4 ettins
+ 24 black puddings
+ 25 vampires
+ 19 lieutenants
+ 49 ghosts
+  4 winged gargoyles
+ 16 giant mimics
+ 14 long worms
+ 11 zruties
+ 22 fire giants
+ 17 ogre kings
+  5 ice trolls
+ 17 rock trolls
+ 14 umber hulks
+  3 flesh golems
+ 10 Elvenkings
+  3 doppelgangers
+ 17 hezrous
+ 16 bone devils
+  7 large mimics
+  4 wumpuses
+  5 fire vortices
+  a couatl
+ 21 stalkers
+ 13 air elementals
+  9 fire elementals
+ 10 earth elementals
+ 19 water elementals
+ 14 hill giants
+  5 giant mummies
+  2 black nagas
+  9 xorns
+ 18 giant zombies
+ 29 elf-lords
+ 37 sergeants
+  2 water demons
+  2 barbed devils
+ 16 vrocks
+ 12 salamanders
+ 13 wargs
+  6 winter wolves
+ 13 hell hound pups
+ 17 small mimics
+  3 glass piercers
+ 10 warhorses
+  9 steam vortices
+ 25 xans
+  7 ettin mummies
+ 12 ogre lords
+ 11 quantum mechanics
+ 38 trolls
+  3 sasquatches
+  6 wood golems
+  2 erinyes
+  9 mariliths
+  a djinni
+ 13 gelatinous cubes
+  3 large dogs
+ 15 flaming spheres
+ 13 shocking spheres
+  5 large cats
+  6 tigers
+  9 gargoyles
+  3 dwarf kings
+  4 tengu
+ 15 ochre jellies
+ 10 leocrottas
+  9 energy vortices
+  8 mountain centaurs
+  3 stone giants
+  5 elf mummies
+  2 human mummies
+  7 red nagas
+  8 green slimes
+  5 pythons
+  8 pit vipers
+ 15 cobras
+ 42 wraiths
+  8 carnivorous apes
+ 16 ettin zombies
+  9 leather golems
+ 19 Grey-elves
+117 soldiers
+  8 succubi
+  4 horned devils
+  8 incubi
+ 10 chameleons
+  5 crocodiles
+ 14 giant beetles
+  4 quivering blobs
+  2 cockatrices
+ 26 wolves
+  a winter wolf cub
+  3 lynxes
+  4 panthers
+ 98 gremlins
+  4 spotted jellies
+  5 leprechauns
+  9 orc-captains
+ 10 iron piercers
+  4 mumakil
+ 17 giant spiders
+ 13 scorpions
+  9 horses
+  3 ice vortices
+  a baby long worm
+ 10 black lights
+  8 vampire bats
+  8 forest centaurs
+  a gnome king
+  9 orc mummies
+  6 dwarf mummies
+  6 ogres
+ 10 brown puddings
+ 17 owlbears
+  7 yetis
+  5 gold golems
+  5 werewolves
+  9 Green-elves
+ 20 lizards
+  a chickatrice
+  6 dingoes
+  6 dogs
+  2 housecats
+  6 jaguars
+  2 dwarf lords
+  7 blue jellies
+  a white unicorn
+  2 gray unicorns
+  4 black unicorns
+  7 dust vortices
+ 10 ravens
+  6 plains centaurs
+  5 gnome mummies
+  7 snakes
+ 17 apes
+ 20 human zombies
+  5 rope golems
+ 13 Woodland-elves
+ 26 soldier ants
+ 65 fire ants
+ 10 bugbears
+  7 imps
+  5 lemures
+ 12 quasits
+  4 wood nymphs
+  5 water nymphs
+  5 mountain nymphs
+ 24 Mordor orcs
+ 24 Uruk-hai
+  3 orc shamans
+ 13 rock piercers
+  9 rock moles
+  7 ponies
+ 10 fog clouds
+ 16 yellow lights
+  6 violet fungi
+  5 gnome lords
+  a gnomish wizard
+  5 kobold mummies
+  a red naga hatchling
+  a black naga hatchling
+  2 golden naga hatchlings
+  8 gray oozes
+  5 barrow wights
+ 17 elf zombies
+ 18 ghouls
+  3 straw golems
+  3 paper golems
+  a baby crocodile
+ 24 giant ants
+  4 little dogs
+  8 floating eyes
+  3 kittens
+  2 dwarves
+  7 homunculi
+  3 kobold lords
+  6 kobold shamans
+ 21 hill orcs
+ 10 rothes
+  a rabid rat
+  3 centipedes
+  3 giant bats
+  a monkey
+ 17 orc zombies
+ 28 dwarf zombies
+  a wererat
+  2 werejackals
+ 14 iguanas
+ 45 killer bees
+  4 acid blobs
+ 15 coyotes
+  a gas spore
+  3 hobbits
+  4 manes
+  5 large kobolds
+ 20 hobgoblins
+  6 giant rats
+ 11 cave spiders
+  a brown mold
+  2 yellow molds
+  4 green molds
+  2 red molds
+ 10 gnomes
+ 10 garter snakes
+  7 gnome zombies
+ 12 geckos
+  a jackal
+  3 foxes
+  3 kobolds
+  8 goblins
+  2 sewer rats
+ 13 grid bugs
+  8 bats
+ 13 lichens
+ 11 kobold zombies
+  9 newts
+2605 creatures vanquished.
+
+Genocided or extinct species:
+ chickatrices
+ cockatrices
+ pyrolisks
+ mind flayers
+ master mind flayers
+ liches
+ demiliches
+ master liches
+ arch-liches
+ rust monsters
+ disenchanters
+ soldiers (extinct)
+ erinyes (extinct)
+ jellyfish
+ piranha
+ sharks
+ giant eels
+ electric eels
+ krakens
+17 species genocided.
+2 species extinct.
+
+Voluntary challenges:
+ You genocided 17 types of monsters.
+ You used 9 wishes.
+ You did not wish for any artifacts.
+
+The Elemental Planes:
+   Astral Plane: <- You are here.
+      A temple.
+   Plane of Water:
+   Plane of Fire:
+   Plane of Air:
+   Plane of Earth:
+The Dungeons of Doom: levels 1 to 29
+   Level 1:
+      One way stairs up to The Elemental Planes.
+   Level 2:
+      Stairs down to The Gnomish Mines.
+   Level 3:
+   Level 4:
+   Level 5:
+   Level 6:
+   Level 7:
+      Some fountains.
+      Oracle of Delphi.
+   Level 8:
+      Stairs up to Sokoban, level 7.
+   Level 9:
+   Level 10:
+      A temple.
+      Final resting place for
+         maxmaxmaxmaxmax-Sam-Hum-Mal-Law, killed while stuck in creature form.
+   Level 11:
+   Level 12:
+      A very big room.
+   Level 13:
+      A jewelers.
+      Portal to The Quest.
+   Level 14:
+      A sink, a grave.
+   Level 15:
+      An altar.
+      Portal to Fort Ludios.
+   Level 16: "Vault"
+      An altar to Tyr, a sink, a grave.
+      Final resting place for
+         z1ndorsky-Bar-Hum-Mal-Neu, killed by a tiger.
+   Level 17:
+      A primitive area.
+   Level 18:
+      A temple, a fountain.
+   Level 19:
+   Level 20: "vault"
+      A jewelers, some fountains.
+   Level 21:
+      A fountain.
+   Level 22:
+      A temple.
+   Level 23:
+      Many graves.
+   Level 24:
+   Level 25:
+   Level 26:
+   Level 27:
+   Level 28:
+   Level 29:
+      A fountain.
+      The castle.
+      Connection to Gehennom.
+Gehennom: levels 30 to 50
+   Level 30:
+      A temple, many graves.
+      Valley of the Dead.
+   Level 31:
+   Level 32:
+   Level 33:
+      A fountain.
+   Level 34:
+   Level 35:
+   Level 36:
+   Level 37:
+   Level 38:
+      Stairs up to Vlad's Tower, level 37.
+   Level 39:
+   Level 40:
+      Some shops, an altar, many graves.
+      Final resting place for
+         Graydot-Ran-Elf-Mal-Cha, killed by Orcus.
+   Level 41:
+   Level 42:
+   Level 43:
+   Level 44:
+   Level 45:
+   Level 46:
+   Level 47:
+   Level 48:
+   Level 49:
+   Level 50:
+      A temple, many graves.
+      Moloch's Sanctum.
+The Gnomish Mines: levels 3 to 10
+   Level 3:
+   Level 4:
+   Level 5:
+      Many shops, a temple, some fountains, some trees.
+   Level 6:
+   Level 7:
+   Level 8:
+   Level 9:
+   Level 10:
+The Quest: levels 1 to 6
+   Level 1:
+      A fountain.
+      Completed quest for the Norn.
+   Level 2:
+   Level 3:
+   Level 4:
+   Level 5:
+   Level 6:
+Sokoban: levels 7 up to 4
+   Level 4:
+      Solved.
+   Level 5:
+      Solved.
+   Level 6:
+      Solved.
+   Level 7:
+      Solved.
+Fort Ludios:
+   Level 1:
+      Fort Ludios.
+Vlad's Tower: levels 37 up to 35
+   Level 35:
+   Level 36:
+   Level 37:
+
+Farvel Ziak the Demigoddess...
+
+You and Kirby and Yoshi
+went to your reward with 3051432 points,
+Excalibur (worth 4000 zorkmids and 10000 points)
+The Book of the Dead (worth 10000 zorkmids and 25000 points)
+Cleaver (worth 1500 zorkmids and 3750 points)
+Fire Brand (worth 3000 zorkmids and 7500 points)
+Mjollnir (worth 4000 zorkmids and 10000 points)
+The Bell of Opening (worth 5000 zorkmids and 12500 points)
+The Candelabrum of Invocation (worth 5000 zorkmids and 12500 points)
+The Orb of Fate (worth 3500 zorkmids and 8750 points)
+       5 amulets of life saving (worth 750 zorkmids),
+       2 amulets of change (worth 300 zorkmids),
+       2 amulets of magical breathing (worth 300 zorkmids),
+       1 amulet of strangulation (worth 150 zorkmids),
+and 1313 pieces of gold, after 63538 moves.
+You were level 30 with a maximum of 367 hit points when you ascended.
+

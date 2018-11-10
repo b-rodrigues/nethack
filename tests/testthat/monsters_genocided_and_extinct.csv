@@ -1,0 +1,287 @@
+value,monster,status
+1,asmodeu,NA
+1,baalzebub,NA
+1,orcu,NA
+1,juiblex,NA
+6,the wizard of yendor,NA
+1,death,NA
+1,vlad the impaler,NA
+1,high priest,NA
+6,mastodon,NA
+1,medusa,NA
+1,croesu,NA
+1,iron golem,NA
+23,storm giant,NA
+3,glass golem,NA
+4,balrog,NA
+7,purple worm,NA
+1,gray dragon,NA
+5,silver dragon,NA
+7,red dragon,NA
+6,white dragon,NA
+6,orange dragon,NA
+7,black dragon,NA
+3,blue dragon,NA
+2,green dragon,NA
+3,yellow dragon,NA
+15,minotaur,NA
+3,jabberwock,NA
+1,lord surtur,NA
+12,baluchitheria,NA
+8,angel,NA
+5,stone golem,NA
+7,olog-hai,NA
+3,nazgul,NA
+6,pit fiend,NA
+3,sandestin,NA
+10,hell hound,NA
+9,titanothere,NA
+6,trapper,NA
+1,baby black dragon,NA
+1,baby green dragon,NA
+2,guardian naga,NA
+33,vampire lord,NA
+2,skeleton,NA
+7,aligned priest,NA
+13,captain,NA
+4,shade,NA
+1,water troll,NA
+6,clay golem,NA
+12,nurse,NA
+13,ice devil,NA
+7,nalfeshnee,NA
+3,lurkers above,NA
+1,aleax,NA
+3,frost giant,NA
+4,ettin,NA
+24,black pudding,NA
+25,vampire,NA
+19,lieutenant,NA
+49,ghost,NA
+4,winged gargoyle,NA
+16,giant mimic,NA
+14,long worm,NA
+11,zruty,NA
+22,fire giant,NA
+17,ogre king,NA
+5,ice troll,NA
+17,rock troll,NA
+14,umber hulk,NA
+3,flesh golem,NA
+10,elvenking,NA
+3,doppelganger,NA
+17,hezrou,NA
+16,bone devil,NA
+7,large mimic,NA
+4,wumpuse,NA
+5,fire vortex,NA
+1,couatl,NA
+21,stalker,NA
+13,air elemental,NA
+9,fire elemental,NA
+10,earth elemental,NA
+19,water elemental,NA
+14,hill giant,NA
+5,giant mummy,NA
+2,black naga,NA
+9,xorn,NA
+18,giant zombie,NA
+29,elf-lord,NA
+37,sergeant,NA
+2,water demon,NA
+2,barbed devil,NA
+16,vrock,NA
+12,salamander,NA
+13,warg,NA
+6,winter wolf,NA
+13,hell hound pup,NA
+17,small mimic,NA
+3,glass piercer,NA
+10,warhorse,NA
+9,steam vortex,NA
+25,xan,NA
+7,ettin mummy,NA
+12,ogre lord,NA
+11,quantum mechanic,NA
+38,troll,NA
+3,sasquatch,NA
+6,wood golem,NA
+2,erinye,extinct
+9,marilith,NA
+1,djinni,NA
+13,gelatinous cube,NA
+3,large dog,NA
+15,flaming sphere,NA
+13,shocking sphere,NA
+5,large cat,NA
+6,tiger,NA
+9,gargoyle,NA
+3,dwarf king,NA
+4,tengu,NA
+15,ochre jelly,NA
+10,leocrotta,NA
+9,energy vortex,NA
+8,mountain centaur,NA
+3,stone giant,NA
+5,elf mummy,NA
+2,human mummy,NA
+7,red naga,NA
+8,green slime,NA
+5,python,NA
+8,pit viper,NA
+15,cobra,NA
+42,wraith,NA
+8,carnivorous ape,NA
+16,ettin zombie,NA
+9,leather golem,NA
+19,grey-elf,NA
+117,soldier,extinct
+8,succubi,NA
+4,horned devil,NA
+8,incubi,NA
+10,chameleon,NA
+5,crocodile,NA
+14,giant beetle,NA
+4,quivering blob,NA
+2,cockatrice,genocided
+26,wolf,NA
+1,winter wolf cub,NA
+3,lynx,NA
+4,panther,NA
+98,gremlin,NA
+4,spotted jelly,NA
+5,leprechaun,NA
+9,orc-captain,NA
+10,iron piercer,NA
+4,mumak,NA
+17,giant spider,NA
+13,scorpion,NA
+9,horse,NA
+3,ice vortex,NA
+1,baby long worm,NA
+10,black light,NA
+8,vampire bat,NA
+8,forest centaur,NA
+1,gnome king,NA
+9,orc mummy,NA
+6,dwarf mummy,NA
+6,ogre,NA
+10,brown pudding,NA
+17,owlbear,NA
+7,yeti,NA
+5,gold golem,NA
+5,werewolf,NA
+9,green-elf,NA
+20,lizard,NA
+1,chickatrice,genocided
+6,dingoe,NA
+6,dog,NA
+2,housecat,NA
+6,jaguar,NA
+2,dwarf lord,NA
+7,blue jelly,NA
+1,white unicorn,NA
+2,gray unicorn,NA
+4,black unicorn,NA
+7,dust vortex,NA
+10,raven,NA
+6,plains centaur,NA
+5,gnome mummy,NA
+7,snake,NA
+17,ape,NA
+20,human zombie,NA
+5,rope golem,NA
+13,woodland-elf,NA
+26,soldier ant,NA
+65,fire ant,NA
+10,bugbear,NA
+7,imp,NA
+5,lemure,NA
+12,quasit,NA
+4,wood nymph,NA
+5,water nymph,NA
+5,mountain nymph,NA
+24,mordor orc,NA
+24,uruk-hai,NA
+3,orc shaman,NA
+13,rock piercer,NA
+9,rock mole,NA
+7,ponie,NA
+10,fog cloud,NA
+16,yellow light,NA
+6,violet fungi,NA
+5,gnome lord,NA
+1,gnomish wizard,NA
+5,kobold mummy,NA
+1,red naga hatchling,NA
+1,black naga hatchling,NA
+2,golden naga hatchling,NA
+8,gray ooze,NA
+5,barrow wight,NA
+17,elf zombie,NA
+18,ghoul,NA
+3,straw golem,NA
+3,paper golem,NA
+1,baby crocodile,NA
+24,giant ant,NA
+4,little dog,NA
+8,floating eye,NA
+3,kitten,NA
+2,dwarf,NA
+7,homonculu,NA
+3,kobold lord,NA
+6,kobold shaman,NA
+21,hill orc,NA
+10,rothe,NA
+1,rabid rat,NA
+3,centipede,NA
+3,giant bat,NA
+1,monkey,NA
+17,orc zombie,NA
+28,dwarf zombie,NA
+1,wererat,NA
+2,werejackal,NA
+14,iguana,NA
+45,killer bee,NA
+4,acid blob,NA
+15,coyote,NA
+1,gas spore,NA
+3,hobbit,NA
+4,mane,NA
+5,large kobold,NA
+20,hobgoblin,NA
+6,giant rat,NA
+11,cave spider,NA
+1,brown mold,NA
+2,yellow mold,NA
+4,green mold,NA
+2,red mold,NA
+10,gnome,NA
+10,garter snake,NA
+7,gnome zombie,NA
+12,gecko,NA
+1,jackal,NA
+3,fox,NA
+3,kobold,NA
+8,goblin,NA
+2,sewer rat,NA
+13,grid bug,NA
+8,bat,NA
+13,lichen,NA
+11,kobold zombie,NA
+9,newt,NA
+NA,pyrolisk,genocided
+NA,mind flayer,genocided
+NA,master mind flayer,genocided
+NA,lich,genocided
+NA,demilich,genocided
+NA,master lich,genocided
+NA,arch-lich,genocided
+NA,rust monster,genocided
+NA,disenchanter,genocided
+NA,jellyfish,genocided
+NA,piranha,genocided
+NA,shark,genocided
+NA,giant eel,genocided
+NA,electric eel,genocided
+NA,kraken,genocided
