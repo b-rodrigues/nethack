@@ -4,7 +4,7 @@ This package contains a data set scraped from public tables that summarise NetHa
 
 ## Installation
 
-
+```
 # Install the development version from GitHub
 devtools::install_github("b-rodrigues/nethack")
 ```
